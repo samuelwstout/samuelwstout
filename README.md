@@ -1,6 +1,4 @@
-## Hey there 👋
-
-I'm a full stack engineer that enjoys building inituitive UIs and cohesive products.
+## Hey I'm Sam 👋
 
 ## What I do
 - 💻 2+ years specializing in TypeScript, React, React Native, Node.js, and Next.js
