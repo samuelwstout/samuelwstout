@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Software engineer with 2 years of professional experience specializing in full stack engineering with TypeScript, React, React Native, Node, and Next.js.
+
+During my time at Red Foundry, I built products from the ground up across various client projects, taking ownership and independently managing responsibility throughout the development lifecycle. Working across diverse software consulting projects has equipped me with a breadth of engineering skills and the ability to deliver effective solutions in varied technical environments.
+
+I enjoy approaching engineering challenges from a wireframe-first perspective, ensuring technical implementations align with real user needs. Currently building an LLM browser automation side project while seeking new opportunities to apply my full stack engineering skills.
