@@ -5,4 +5,4 @@
 - 🎨 Love taking a wireframe-first approach to ensure tech solutions meet real user needs
 - 🎺 Former classical trumpet player
 - 🤖 Working on an LLM browser automation side project
-- 🔍 Open to new opportunities where I can leverage my full stack skills
+- 🔍 Open to new opportunities
