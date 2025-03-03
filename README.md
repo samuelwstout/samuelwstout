@@ -12,5 +12,5 @@ I'm a full stack engineer that enjoys building user-focused products.
 - 🤖 Working on an LLM browser automation side project
 - 🔍 Open to new opportunities where I can leverage my full stack skills
 
-## Let's connect
+## Let's connect!
 [LinkedIn](https://www.linkedin.com/in/samwstout/) | [Personal Site](https://www.samwstout.com/)
