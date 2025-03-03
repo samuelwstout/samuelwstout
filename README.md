@@ -1,22 +1,16 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**samuelwstout/samuelwstout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full stack engineer that enjoys building user-focused products. 
 
-Here are some ideas to get you started:
+## What I do
+- 💻 2+ years specializing in TypeScript, React, React Native, Node.js, and Next.js
+- 🛠️ Experience building products from scratch across various client projects
+- 🎨 Love taking a wireframe-first approach to ensure tech solutions meet real user needs
+- 🎺 Former classical trumpet player who traded musical compositions for code compositions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- 🤖 Working on an LLM browser automation side project
+- 🔍 Open to new opportunities where I can leverage my full stack skills
 
-Software engineer with 2 years of professional experience specializing in full stack engineering with TypeScript, React, React Native, Node, and Next.js.
-
-During my time at Red Foundry, I built products from the ground up across various client projects, taking ownership and independently managing responsibility throughout the development lifecycle. Working across diverse software consulting projects has equipped me with a breadth of engineering skills and the ability to deliver effective solutions in varied technical environments.
-
-I enjoy approaching engineering challenges from a wireframe-first perspective, ensuring technical implementations align with real user needs. Currently building an LLM browser automation side project while seeking new opportunities to apply my full stack engineering skills.
+## Let's connect
+[LinkedIn](https://www.linkedin.com/in/samwstout/) | [Personal Site](https://www.samwstout.com/)
