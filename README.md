@@ -4,5 +4,5 @@
 - 🛠️ Experience building products from scratch across various client projects
 - 🎨 Enjoy taking a wireframe-first approach 
 - 🎺 Former classical trumpet player
-- 🤖 Working on an LLM browser automation side project
+- 🤖 Experimenting with building browser agents
 - 🔍 Open to new opportunities
